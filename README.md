@@ -5,11 +5,9 @@
 -->
 
 #  About Me
----
 A passionate Data Analyst fascinated by how data science and big data world is revolutionizing almost every industry. With strong experience in building and optimizing ETL/ELT processes in Cloud Data Warehouses and data lakes. And analysing the data and visualizing it to gain insights for making evidence-based decisions. 
 
 # Projects
----
 
 ## Data Analysis
 
