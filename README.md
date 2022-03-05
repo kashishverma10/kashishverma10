@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kashish!
+## **Hi there 👋 I'm Kashish!**
 
 <!--
 **kashishverma10/kashishverma10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,6 +36,6 @@ A passionate Data Analyst fascinated by how data science and big data world is r
 > data, filling the data warehouse, and running checks on the data as the final step.
 
 
-- 📫 Email: kashish.verma@live.com
+**📫 Email: kashish.verma@live.com**
 
 
